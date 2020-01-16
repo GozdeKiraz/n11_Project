@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0a01771-6d4c-4c34-a678-031f3ca90372" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WOzpalfRZBUabHQ4QZKgks4w0b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Keytorc_n11_Project\properties\driver" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="listener" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCase.Test">
+    <configuration name="TestCase.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Keytorc_n11_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TestCase" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Keytorc_n11_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TestCase" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.loginTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Keytorc_n11_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TestCase" />
+      <option name="METHOD_NAME" value="loginTestCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.testAssertions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Keytorc_n11_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TestCase" />
+      <option name="METHOD_NAME" value="testAssertions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCase.Test" />
+        <item itemvalue="TestNG.TestCase.testAssertions" />
+        <item itemvalue="TestNG.LoginTestCase.loginTest" />
+        <item itemvalue="TestNG.LoginTestCase.loginTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0a01771-6d4c-4c34-a678-031f3ca90372" name="Default Changelist" comment="" />
+      <created>1579035612726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579035612726</updated>
+      <workItem from="1579035616964" duration="10253000" />
+      <workItem from="1579094274846" duration="3052000" />
+      <workItem from="1579116176873" duration="967000" />
+      <workItem from="1579122025602" duration="1833000" />
+      <workItem from="1579161040480" duration="875000" />
+      <workItem from="1579183425272" duration="7696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1579088343267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1579088343267" />
+    <state x="422" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579121778456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579121778456" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1579088296302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579088296302" />
+    <state x="413" y="141" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579088235151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="141" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1579088235151" />
+    <state x="463" y="120" width="524" height="515" key="FileChooserDialogImpl" timestamp="1579115820305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" width="524" height="515" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579115820305" />
+    <state width="1323" height="94" key="GridCell.Tab.0.bottom" timestamp="1579187830593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="94" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579187830593" />
+    <state width="1323" height="94" key="GridCell.Tab.0.center" timestamp="1579187830591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="94" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579187830591" />
+    <state width="1323" height="94" key="GridCell.Tab.0.left" timestamp="1579187830590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="94" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579187830590" />
+    <state width="1323" height="94" key="GridCell.Tab.0.right" timestamp="1579187830592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="94" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579187830592" />
+    <state x="499" y="143" key="chooseDestDirectoryDialog" timestamp="1579088085249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="143" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1579088085249" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579161041630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579161041630" />
+    <state x="65" y="67" key="new project wizard" timestamp="1579161921496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579161921496" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579091122568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579091122568" />
+  </component>
+</project>
